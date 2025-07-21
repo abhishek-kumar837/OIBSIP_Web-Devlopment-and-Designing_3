@@ -43,3 +43,4 @@ A fully functional, browser-based To-Do List App
 Tasks persist even after refreshing the browser
 
 Clean UI with intuitive controls for managing tasks
+
