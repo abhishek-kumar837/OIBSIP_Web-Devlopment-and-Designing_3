@@ -37,7 +37,8 @@ This is a simple and responsive To-Do List application built using **HTML**, **C
 
 1. Clone or download this repository:
    ```bash
-  git clone https://github.com/abhishek-kumar837/OIBSIP_Web-Devlopment-and-Designing_3)
+   git clone https://github.com/abhishek-kumar837/OIBSIP_Web-Devlopment-and-Designing_3)
+   
 2. Navigate to the project directory:
 
 bash
