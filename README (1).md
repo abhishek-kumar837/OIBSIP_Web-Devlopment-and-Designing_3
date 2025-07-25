@@ -12,8 +12,7 @@ This is a simple and responsive To-Do List application built using **HTML**, **C
 
 ## 🖥️ Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=To-Do+App+Preview)
-
+![App Screenshot](https://github.com/abhishek-kumar837/OIBSIP_Web-Devlopment-and-Designing_3/blob/main/TO%20Do%20List%20picture.png?raw=true)
 ## 📁 Project Structure
 
 📦 to-do-list-app
